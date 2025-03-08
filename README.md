@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/LaOdmKp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/vzc5krw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
