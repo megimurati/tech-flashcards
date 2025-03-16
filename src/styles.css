@@ -27,7 +27,7 @@ h1 {
 }
 
 /* Flashcard Styles */
-.flashcard-container {
+.frame-container {
   display: flex;
   justify-content: center;
   margin: 30px 0;
